@@ -1,0 +1,52 @@
+@font-face {
+    font-family: iranSans;
+    src: url(../Fonts/iranSans/ir_sans.ttf);
+}
+@font-face {
+    font-family:B-koodak ;
+    src: url(../Fonts/B-kodak/B\ Koodak\ Bold_0.ttf);
+}
+@font-face {
+    font-family: B-nazanin;
+    src: url(../Fonts/B-Nazanin/B-NAZANIN.TTF);
+}
+@font-face {
+    font-family: B-titr;
+    src: url(../Fonts/B-Titr/B\ Titr\ Bold_0.ttf);
+}
+@font-face {
+    font-family: B-ziba;
+    src: url(../Fonts/B-Ziba/B\ Ziba_0.ttf);
+}
+@font-face {
+    font-family: dastNevis;
+    src: url(../Fonts/dastnevis/danstevis.otf);
+}
+@font-face {
+    font-family: iranianSans;
+    src: url(../Fonts/iranianSans/Iranian\ Sans.ttf);
+}
+@font-face {
+    font-family: iranNastaligh;
+    src: url(../Fonts/iranNastaligh/IranNastaliq.ttf);
+}
+@font-face {
+    font-family: iranYekan;
+    src: url(../Fonts/iranYekan/Qs_Iranyekan.ttf);
+}
+@font-face {
+    font-family: laleZar;
+    src: url(../Fonts/Lalezar/Lalezar-Regular.ttf);
+}
+@font-face {
+    font-family: ordibehesht;
+    src: url(../Fonts/ordibehesht/Ordibehesht.TTF);
+}
+@font-face {
+    font-family: sulsMirEmad;
+    src: url(../Fonts/sulsMirEmad/Suls.ttf);
+}
+@font-face {
+    font-family: vazir;
+    src: url(../Fonts/vazir/Vazir.ttf);
+}
