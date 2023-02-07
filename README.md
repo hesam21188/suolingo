@@ -6,4 +6,4 @@ duolingo + 1 = suolingo
 this is a project from Amir Hesam Harati (Hesam21188) from allame helli 4 Middle school
 </br>
 if you have an idea or Opinion tell with this email
-<a href=mailto:>hosseinharatii@gmail.com</a>
+<a href=mailto:hosseinharatii@gmail.com>hosseinharatii@gmail.com</a>
